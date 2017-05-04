@@ -1,4 +1,4 @@
-package mvnjordan;
+package payroll;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

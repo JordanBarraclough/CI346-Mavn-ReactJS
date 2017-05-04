@@ -1,4 +1,4 @@
-package mvnjordan;
+package payroll;
 
 import org.springframework.data.repository.CrudRepository;
 
