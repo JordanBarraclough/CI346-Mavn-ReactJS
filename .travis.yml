@@ -1,11 +1,9 @@
 language: java
+sudo: true
 
 notifications:
 email: false
 
-branches:
- only:
-- master
 
 services:
   - docker
@@ -14,4 +12,3 @@ before_install:
   - mvn clean package test
   - docker build --tag=payroll
   
-sudo: true
