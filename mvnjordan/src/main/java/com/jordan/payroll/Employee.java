@@ -9,7 +9,7 @@ import lombok.Data;
 @Data
 @Entity
 public class Employee {
-
+ 
 	private @Id @GeneratedValue Long id;
 	private String firstName;
 	private String lastName;
