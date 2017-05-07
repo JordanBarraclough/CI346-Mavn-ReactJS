@@ -13,8 +13,8 @@
 
 	<groupId>com.jordan</groupId>
 	<artifactId>mvnjordan</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>war</packaging>
 
 	<name>React.js and Spring Data REST - Basic</name>
 	<description>An SPA with ReactJS in the frontend and Spring Data REST in the backend</description>
