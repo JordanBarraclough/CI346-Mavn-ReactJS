@@ -7,5 +7,5 @@
 -  [x]  A HATEOS API
 -  [x]  A ReactJS frontend
 -  [ ]  Authentication implementation such as [Keycloak](http://www.keycloak.org)
--  [x]  Persistence of data
+-  [ ]  Persistence of data
 -  [x]  Completeness of automated tests of the business logic
